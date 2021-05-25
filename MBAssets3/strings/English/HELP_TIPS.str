@@ -50,7 +50,7 @@ REFERENCE           TIP11B
 LANG_ENGLISH        "Use Force Pull 3 to draw enemies out of cover and at the mercy of your teammates."
 
 REFERENCE           TIP12B
-LANG_ENGLISH        "Gunfire drains more Force Points from Jedi and Sith the closer they are.\nThe Projectile Rifle can deplete up to 80 FP in one shot if the victim is close."
+LANG_ENGLISH        "Gunfire drains more Force Points from Jedi and Sith the closer they are.\nThe Projectile Rifle can deplete up to 50 FP in one shot if the victim is close."
 
 REFERENCE           TIP13B
 LANG_ENGLISH        "The Soldier can have up to 3 lives.\nSometimes, killing yourself to get back to your team's spawnpoint can help\nsave a seemingly undefended objective."
@@ -172,7 +172,7 @@ REFERENCE           TIP21A
 LANG_ENGLISH        "The Mandalorian can fire accurate sniper shots when using the Jetpack by not accelerating."
 
 REFERENCE           TIP22A
-LANG_ENGLISH        "Pulse Grenades and Thermal Detonators can be lobbed instantly\nat maximum velocity with Secondary Attack."
+LANG_ENGLISH        "Pulse Grenades can be lobbed instantly at maximum velocity with Secondary Attack."
 
 REFERENCE           TIP23A
 LANG_ENGLISH        "Sonic Detonator Mines can be destroyed by attacking them before they explode."
