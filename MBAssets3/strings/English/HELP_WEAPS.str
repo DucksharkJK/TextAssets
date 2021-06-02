@@ -71,7 +71,7 @@ LANG_ENGLISH        "The thermal detonator, or 'TD' for short, is a highly volat
 
 REFERENCE           PULSENADES
 NOTES               "For character menu"
-LANG_ENGLISH        "The Electro Magnetic Pulse Grenade, or Pulse Grenade — for short — is a grenade accessible by the ARC Trooper. Tapping primary fire will result in a short toss of the grenade. Pressing and holding primary fire will allow for the grenade’s throwing distance to increase (the longer you 'charge' the longer the toss). Secondary fire will allow for maximum throwing range without the wait of charging.\n\n- Causes knockdown for most classes and drains their weapon's clip\n- Heavily drains the ammo of and temporarily disables the shields of Droidekas\n- Drains battery power, weapon clip from, and renders SBDs incapable of firing for a short period \n\n Level (X):  (X) number of pulse grenades granted."
+LANG_ENGLISH        "The Electro Magnetic Pulse Grenade, or Pulse Grenade Â— for short Â— is a grenade accessible by the ARC Trooper. Tapping primary fire will result in a short toss of the grenade. Pressing and holding primary fire will allow for the grenadeÂ’s throwing distance to increase (the longer you 'charge' the longer the toss). Secondary fire will allow for maximum throwing range without the wait of charging.\n\n- Causes knockdown for most classes and drains their weapon's clip\n- Heavily drains the ammo of and temporarily disables the shields of Droidekas\n- Drains battery power, weapon clip from, and renders SBDs incapable of firing for a short period \n\n Level (X):  (X) number of pulse grenades granted."
 
 REFERENCE           SONICNADES
 NOTES               "For character menu"
@@ -103,7 +103,7 @@ LANG_ENGLISH        "The Bowcaster (sometimes called the Wookiee Crossbow or the
 
 REFERENCE           DEKABLASTERS
 NOTES               "For character menu"
-LANG_ENGLISH        "This weapon is advanced through purchasing different levels of the 'Firepower' skill for a Droideka, similar to what Super Battle Droids use, however ammunition is part of the Firepower ability unlike with the SBD Armblaster.\n\nFirepower (Droideka) - Advanced firing coils and energy storage technology is installed in the Droideka, resulting in increased rates of fire and ammunition regeneration rates.\nLevel 1: Energy regeneration increases slightly.\nLevel 2: Rate of fire is greatly increased.\nLevel 3: Energy regeneration is maximized.\n\n\nNote: Droideka shots unlike Dual Pistol weapons used by other classes target the center of the crosshair, rather than each blaster from each side having a slightly different destination."
+LANG_ENGLISH        "This weapon is advanced through purchasing different levels of the 'Firepower' skill for a Droideka, similar to what Super Battle Droids use, however ammunition is part of the Firepower ability unlike with the SBD Armblaster.\n\nFirepower (Droideka) - Advanced firing coils and energy storage technology is installed in the Droideka, resulting in increased rates of fire and ammunition regeneration rates.\nLevel 1: Energy regeneration increases slightly.\nLevel 2: Rate of fire is greatly increased.\nLevel 3: Energy regeneration is maximized.\n\n\nNote: Droideka shots target the center of the crosshair, rather than each blaster from each side having a slightly different destination."
 
 REFERENCE           ARMBLASTER
 NOTES               "For character menu"
